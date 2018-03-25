@@ -1,0 +1,94 @@
+puts "aiueo"
+
+print "ccc"
+
+print "a"
+
+puts "bb"
+
+=begin
+
+ini
+
+komen
+
+=end
+
+x=123
+
+puts x
+
+puts x*2
+
+x=3
+
+puts x
+y=2.0
+
+z=2
+
+M=2.0
+
+puts M
+
+M=30
+
+puts M
+
+age=30
+
+puts "he is #{age} years old"
+
+puts x/y
+
+puts x/z
+
+puts x**z
+
+x*=2
+
+puts 12%x
+
+a,b,c=10,20,30
+
+puts a,b,c
+
+x,z=z,x
+
+puts x,z
+
+puts (3+2)*4
+
+text = 'Ruby\'s syntax is fun'
+
+puts text
+
+text = "Hello \n World"
+
+puts text
+
+q = 5
+
+w = 2
+
+puts "The sum is #{q+w}"
+
+p = "Hi "
+
+o = 'there'
+
+puts p+o
+
+n = "abc"
+
+puts n*3
+
+puts "Enter your name"
+
+name = gets.chomp
+
+puts "Welcome, #{name}"
+
+e = gets.to_i method
+
+puts "my age is #{e}"
